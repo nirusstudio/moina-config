@@ -1,0 +1,7 @@
+{
+  "minimum_supported_build": 53,
+  "blocked_builds": [],
+  "maintenance_mode": false,
+  "api_enabled": true,
+  "message": "This test build is no longer supported. Please install the latest TestFlight build."
+}
