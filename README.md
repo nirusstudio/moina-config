@@ -1,2 +1,2 @@
-# avoka-config
-Avoka Configuration
+# aravel-config
+Aravel Configuration
