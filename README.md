@@ -1,2 +1,2 @@
-# aravel-config
-Aravel Configuration
+# moina-config
+Moina Configuration
