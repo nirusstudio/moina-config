@@ -1,5 +1,5 @@
 {
-  "minimum_supported_build": 48,
+  "minimum_supported_build": 61,
   "blocked_builds": [],
   "maintenance_mode": false,
   "api_enabled": true,
